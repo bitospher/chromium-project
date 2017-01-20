@@ -30,7 +30,7 @@ Unpack the files into a directory and run:
 - bin/64/chromium-qt (GUI, 64-bit)
 - bin/64/chromiumd (headless, 64-bit)
 
-See the documentation at the [Chromium Wiki](http://chromium.info)
+See the documentation at the [Chromium Wiki](http://chromiumcurrency.info)
 for help and more information.
 
 
