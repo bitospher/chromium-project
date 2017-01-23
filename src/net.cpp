@@ -1173,7 +1173,7 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"chromiumtools.com", "94.120.132.8"},
+    {"chromiumcurrency.info", "138.197.78.227"},
     {NULL, NULL}
 };
 
