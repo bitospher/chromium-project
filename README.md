@@ -11,7 +11,7 @@ What is Chromium Currency?
 
 Chromium is a lite, secure and fast version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 30 seconds block targets
- - subsidy halves in 840k blocks (~4 years)
+ - subsidy halves in 840k blocks
  - ~84 million total coins
 
 The rest is the same as Bitcoin.
