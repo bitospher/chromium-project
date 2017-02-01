@@ -6,7 +6,7 @@ http://www.chromiumcurrency.info
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2016 Chromium Currency Developers
 
-What is Chromium Currency?
+What is Chromium Coin?
 ----------------
 
 Chromium is a lite, secure and fast version of Bitcoin using scrypt as a proof-of-work algorithm.
