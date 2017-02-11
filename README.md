@@ -1,7 +1,7 @@
 Chromium integration/staging tree
 ================================
 
-http://www.chromiumcurrency.info
+http://chromiumcurrency.info
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2016 Chromium Currency Developers
@@ -13,13 +13,18 @@ Chromium is a lite, secure and fast version of Bitcoin using scrypt as a proof-o
  - 30 seconds block targets
  - subsidy halves in 840k blocks
  - ~84 million total coins
+ - can recorded address mode
 
 The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
+ 
+Profitable Solo Mining!
+ - Localhost IP = 127.0.0.1
+ - RPC Port = 9339
 
 For more information, as well as an immediately useable, binary version of
-the Chromium client sofware, see http://www.chromiumcurrency.info.
+the Chromium client sofware, see http://chromiumcurrency.info.
 
 License
 -------
