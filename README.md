@@ -21,7 +21,7 @@ The rest is the same as Bitcoin.
  
 Profitable Solo Mining!
  - Localhost IP = 127.0.0.1
- - RPC Port = 9339
+ - RPC Port = 19339
 
 For more information, as well as an immediately useable, binary version of
 the Chromium client sofware, see http://chromiumcurrency.info.
